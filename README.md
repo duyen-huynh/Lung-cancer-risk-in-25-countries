@@ -1,7 +1,7 @@
 ![Project Portfolio](Project%20porfolio.png)
 
 
-# Lung-cancer-risk-in-25-countries
+# Lung Cancer Risk in 25-countries
 
 This dataset contains information on lung cancer risk factors across various countries, focusing on demographic details, smoking behaviors, and family history.
 ## Project Overview
