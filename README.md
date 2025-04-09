@@ -48,6 +48,8 @@ This project utilizes the Lung Cancer Risk in 25 Countries dataset from Kaggle, 
 - [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
 - [Feature Engineering](#feature-engineering)
 - [Exploratory Data Analysis/Visualization](#exploratory-data-analysis/Visualization)
+- [Results](#results)
+- [Acknowledgments](#acknowledgments)
 
 ## Import Packages of Dataset
 
@@ -86,6 +88,23 @@ Key features for this analysis include:
    - Top countries of Average mortality rate
    - Lung cancer cases in Ethiopia
    - Lung cancer cases in Nigeria    
+
+## Results
+- **Smoking behavior**:
+    - There is positive correlation between smokers with the number of lung cancer diagnosis cases, especially of male heavy and long-term smokers
+    - There are less adenocarcinoma cases of people who are smokers
+    - There is no correlation between family history or passive smoking with the number of lung cancer diagnosis cases
+- **Demographics**:
+    - There are more male than female of positive lung cancer diagnosis cases, especially cases with smoking habits 
+- **Regional variations**:
+    - Developed countries show a higher rate of annual lung cancer deaths relative to their population size
+    - Developing countries report a higher number of cases alongside increasing lung cancer prevalence
+    - Among all countries, Ethiopia and Nigeria stand out with the highest lung cancer mortality and prevalence rates, respectively. However, the relationship between lung prevalence rate/ survival years and years of smoking varies by adenocarcinoma types or cancer stages is different by each country
+
+## Acknowledgments
+
+I would like to express my deepest gratitude to **Bertie Dickinson** from **CambridgeSpark** for his exceptional guidance and support throughout the course of this project. His advice and insightful instruction have greatly contributed to my understanding of the data and have significantly advanced my skills in data analysis.
+
 
 
 
