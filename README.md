@@ -44,13 +44,20 @@ This project utilizes the Lung Cancer Risk in 25 Countries dataset from Kaggle, 
 
 ## Table of Contents
 
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
+- [Import Packages of Dataset](#dataset)
+- [Cleaning Data]
 - [Feature Engineering](#feature-engineering)
-- [Modelling](#modelling)
+- [Exploratory Data Analysis/Visualization]
 - [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
-- [Result](#result)
-- [Future Work](#future-work)
-- [Acknowledgments](#acknowledgments)
+
+
+
+
+
+
+
+
+
+
 
    
