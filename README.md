@@ -1,4 +1,4 @@
-![Lung Cancer Risk Chart](Project porfolio.png)
+![Project porfolio](Project porfolio.png)
 
 
 # Lung-cancer-risk-in-25-countries
