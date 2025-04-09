@@ -1,4 +1,4 @@
-![Project porfolio](Project porfolio.png)
+![Lung Cancer Risk Chart](Project porfolio.png)
 
 
 # Lung-cancer-risk-in-25-countries
@@ -51,17 +51,16 @@ This project utilizes the Lung Cancer Risk in 25 Countries dataset from Kaggle, 
 
 ## Import Packages of Dataset
 
-The dataset is sourced from [Kaggle’s Lending Club dataset](https://www.kaggle.com/datasets/aizahzeeshan/lung-cancer-risk-in-25-countries/data
-![image](https://github.com/user-attachments/assets/5898967e-162e-48fc-a34e-b63b50b1bea1)).
+The dataset is sourced from [Kaggle’s Lending Club dataset](https://www.kaggle.com/datasets/aizahzeeshan/lung-cancer-risk-in-25-countries/data![image](https://github.com/user-attachments/assets/5898967e-162e-48fc-a34e-b63b50b1bea1)).
 
-## data cleaning and preprocessing
+## Data cleaning and preprocessing
 
 - **Handling Missing Values**: The dataset was scanned for missing values, no need for imputing missing values except for 'Cancer Stage' and 'Treatment type' nan were filled with 'No info'
 - **Checking for duplicates**: The dataset was scanned for fully and partially duplicated rows using data exploration techniques. This included checking for duplicates on Index (ID) columns to prevent repeating patient information
 - **Cleaning columns**: Medical datasets often include categorical columns with binary values such as "Yes"/"No" responses, which are not directly suitable for numerical analysis or machine learning model, these columns were converted to numerical format of 0/1
 - **Incorrect data entry**: Some records indicated that the number of years a patient had smoked exceeded their reported age — a clear indication of incorrect data entry. By addressing these issues early in the pipeline, we notice it when analyzing the dataset
 
-## feature engineering
+## Feature engineering
 
 Key features for this analysis include:
 
@@ -72,7 +71,7 @@ Key features for this analysis include:
   - **Heavy Smoker**: Only amount of cigarretes per day above mean of cigarretes per day
   - **Light Smoker**: Years of smoking below mean of years of smoking and the amount of cigarretes per day below mean of cigarretes per day
 
-## exploratory data analysis/visualization
+## Exploratory data analysis/visualization
 
 1. **Lung Cancer Diagnosis & Correlations of numeric value**
 2. **Lung cancer diagnosis breakdown by gender/ smoker/ smoker types**
