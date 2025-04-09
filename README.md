@@ -51,7 +51,7 @@ This project utilizes the Lung Cancer Risk in 25 Countries dataset from Kaggle, 
 
 ## Import Packages of Dataset
 
-The dataset is sourced from [Kaggle’s Lending Club dataset](https://www.kaggle.com/datasets/aizahzeeshan/lung-cancer-risk-in-25-countries/data![image](https://github.com/user-attachments/assets/5898967e-162e-48fc-a34e-b63b50b1bea1)).
+The dataset is sourced from [Kaggle’s Lung-cancer-risk-in-25-countries dataset](https://www.kaggle.com/datasets/aizahzeeshan/lung-cancer-risk-in-25-countries/data![image](https://github.com/user-attachments/assets/5898967e-162e-48fc-a34e-b63b50b1bea1)).
 
 ## Data cleaning and preprocessing
 
