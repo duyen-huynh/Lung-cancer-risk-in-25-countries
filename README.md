@@ -1,4 +1,4 @@
-![Project porfolio](Project porfolio.png)
+![Project Portfolio](Project%20porfolio.png)
 
 
 # Lung-cancer-risk-in-25-countries
